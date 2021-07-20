@@ -1,0 +1,14 @@
+﻿# Default ignored files
+/shelf/
+/bin
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.APILearn.iml
+/projectSettingsUpdater.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\nadia\RiderProjects\APILearn\.idea\.idea.APILearn\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
